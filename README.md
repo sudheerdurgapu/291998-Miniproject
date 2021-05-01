@@ -1,9 +1,9 @@
 # Python Mini project
-   * sololearn            -completed
-   * hackerrank           -gold badge completed
-   * cisco python course  -completed
-   * mini project         -completed
-# Project information : Simple calculator
+   * sololearn -completed
+   * hackerrank  -gold badge completed
+   * cisco python course -completed
+   * mini project -completed
+# Project Information:Simple Calculator
    
    
    
@@ -17,7 +17,7 @@
    
   # Cost Features
    * the cost of the system is zero initially but after updation of the project their is some amount of cost but upto now there is no cost
-  # Hardware and software requirements
-   * there is no need any basic software except python application.and basic hardware to run the python appliaction it can runs on multiple operating system like windows and linux,..etc..
-   # Application
+  # hardware and software requirements
+  * there is no need any basic software except python application.and basic hardware to run the python appliaction it can runs on multiple operating system like windows and linux.etc..
+   # application
 [![Python application](https://github.com/sudheerdurgapu/291998-Miniproject/actions/workflows/python-publish.yml/badge.svg)](https://github.com/sudheerdurgapu/291998-Miniproject/actions/workflows/python-publish.yml)
