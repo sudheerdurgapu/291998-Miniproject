@@ -13,4 +13,9 @@
    
   # Defining system
    * firstly it asks to choose the operation to do.then enter the inputs required in the operations. it will print the result of the operation and again turns to menu option until loop gets exit input 
- 
+   
+   
+  # Cost features
+   * the cost of the system is zero initially but after updation of the project their is some amount of cost but upto now there is no cost
+  # Hardware and software requirements
+   * there is no need any basic software except python application.and basic hardware to run the python appliaction it can runs on multiple operating system like windows and linux,..etc..
