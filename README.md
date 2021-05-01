@@ -1,9 +1,9 @@
-# python Mini project
+# Python Mini project
    * sololearn            -completed
    * hackerrank           -gold badge completed
    * cisco python course  -completed
    * mini project         -completed
-# project information : Simple calculator
+# Project information : Simple calculator
    
    
    
